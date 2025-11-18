@@ -20,8 +20,8 @@
 
 <!-- <p align="left">- 🔭 I’m working as ...<br> -->
 
-- 📚 I'm a web developer enthusiast <br>
-- 🌱 Currently learning MERN Stack (Specifically NextJS and Express) <br>
+- 📚 Web Developer |  Machine Learning | Data Engineer | Automation enthusiast <br>
+- 🌱 Continuous Learning <br>
 <!-- - ⚡ In my free time I ...</p> -->
 
 ###
@@ -52,6 +52,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" height="40" alt="fastapi logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="40" alt="django logo" />
 </div>
 
 ###
