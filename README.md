@@ -20,7 +20,7 @@
 
 <!-- <p align="left">- 🔭 I’m working as ...<br> -->
 
-- 📚 Fullstack Web Developer | AI Automation Engineer |  Machine Learning and Cloud Computing Learner <br>
+- 📚 Fullstack Web Developer | AI Automation Engineer | Machine Learning and Cloud Computing Learner <br>
 - 🌱 Continuous Learning <br>
 <!-- - ⚡ In my free time I ...</p> -->
 
@@ -56,7 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="40" alt="django logo" />
 </div>
 
-
 #### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=stephenardy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -65,7 +64,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/stephenardy/stephenardy/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stephenardy/stephenardy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stephenardy/stephenardy/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/stephenardy/stephenardy/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
